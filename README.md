@@ -2,7 +2,7 @@
 
 ## Eventos:
 
-### Desantivar sensor = desativar corrida - propriedades do mapa
+### Desativar sensor = desativar corrida - propriedades do mapa
 
 ### Transferencia = teletransporte (troca de mapa)
 
@@ -57,3 +57,6 @@
 
 ## Boa pratica:
 <p>Criar um mapa para armazenar todos os eventos</p>
+
+## codigos para texto:
+![codigos para texto](./imgs/Captura%20de%20tela%202024-08-21%20161738.png)
