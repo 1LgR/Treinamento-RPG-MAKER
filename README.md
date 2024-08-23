@@ -60,3 +60,6 @@
 
 ## codigos para texto:
 ![codigos para texto](./imgs/Captura%20de%20tela%202024-08-21%20161738.png)
+
+## controles:
+![controles](./imgs/Captura%20de%20tela%202024-08-23%20164523.png)
